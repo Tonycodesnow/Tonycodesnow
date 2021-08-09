@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tonycodesnow
-- 👀 I’m interested in tech 
+- 👀 I’m interested in Science, tech and fam. 
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me check my cv
+- 📫 "I didn’t fail 1,000 times. The light bulb was an invention with 1,000 steps." Edison
+
 
 <!---
 Tonycodesnow/Tonycodesnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
