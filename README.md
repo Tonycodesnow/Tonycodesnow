@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Antonio aka [@Tonycodesnow]
+### 👋 Hi, I’m Antonio aka @Tonycodesnow
 
 ## I'm a Husband, Father, Developer, and Artist!
 - 🔭 I'm currently working on a [JavaScript][Quiz Generator]!
@@ -29,7 +29,5 @@ Tonycodesnow/Tonycodesnow is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/antonio-huerta-954a53216/
