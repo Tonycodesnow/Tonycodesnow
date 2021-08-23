@@ -26,4 +26,7 @@
 
 ---
 
-<img align="left" alt="Tonycodesnow GitHub Stats" src="https://github-readme-stats.Tonycodesnow.vercel.app/api?username=Tonycodesnow&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Tonycodesnow GitHub Stats" src="https://github-readme-stats.Tonycodesnow.vercel.app/api?username=Tonycodesnow&show_icons=true&hide_border=true" />
+</details>
