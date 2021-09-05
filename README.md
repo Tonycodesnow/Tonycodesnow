@@ -1,17 +1,17 @@
 ### 👋 Hi, I’m Antonio aka @Tonycodesnow
 
 ## I'm a Husband, Father, Developer, and Artist!
-- 🔭 I'm currently working on a [JavaScript][Quiz Generator]!
+- 🔭 I'm currently working on a [JavaScript][APi's ]!
 - 👀 I’m interested in Science, tech and everything in between. 
 - 🌱 I’m currently learning everything 
-- 👯 I'm looking to collaborate with other content creators
-- 🥅 2021-2020 Goals: Contribute more to Open Source projects
+- 👯 I'm looking to collaborate with other creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 favorite quote
-- "I didn’t fail 1,000 times. The light bulb was an invention with 1,000 steps." Edison
+- The light bulb was an invention with 1,000 steps." Edison
 
 ### Connect with me:
 
-<img align="left" alt="Tonycodenow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Tonycodenow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/antonio-huerta-954a53216/</a>
 
 <br />
 
