@@ -7,7 +7,7 @@
 - 👯 I'm looking to collaborate with other creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 favorite quote
-- The light bulb was an invention with 1,000 steps." Edison
+- The light bulb was an invention that took 1,000 steps." Edison
 
 <br />
 
