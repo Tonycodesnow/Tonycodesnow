@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Tonycodenow | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/antonio-huerta-954a53216/</a>
+<a href="https://www.linkedin.com/in/antonio-huerta-954a53216/</a>
 
 <br />
 
