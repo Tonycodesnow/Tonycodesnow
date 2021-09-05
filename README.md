@@ -9,9 +9,9 @@
 - 📫 favorite quote
 - The light bulb was an invention with 1,000 steps." Edison
 
-### Connect with me:
+### Connect:
 
-<a href="https://www.linkedin.com/in/antonio-huerta-954a53216/</a>
+Linkedin: <a href="https://www.linkedin.com/in/antonio-huerta-954a53216/</a>
 
 <br />
 
