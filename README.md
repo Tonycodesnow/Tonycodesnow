@@ -1,12 +1,14 @@
 ### 👋 Hi, I’m Antonio aka @Tonycodesnow
 
 ## I'm a Husband, Father, Developer, and Artist!
-- 🔭 I'm currently working on [JavaScript] & [Node.js ]!
-- 👀 I’m interested in Science, tech and everything in between. 
-- 🌱 I’m currently learning everything 
-- 👯 I'm looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 Favorite quote - "The light bulb was an invention that took 1,000 steps." -Edison
+* 🔭 I'm currently working on [JavaScript] & [Node.js ]!
+* 👀 I’m interested in Science, tech and everything in between. 
+* 🌱 I’m currently learning everything 
+* 👯 I'm looking to collaborate with other creators
+* 🥅 2021 Goals: Contribute more to Open Source projects
+* 📫 Favorite quotes - "The light bulb was an invention that took 1,000 steps." -Edison
+* "Everyone has a plan 'till they get punched in the mouth." -Mike Tyson
+* "There are no limits. There are only plateaus, and you must not stay there -- you must go beyond them." -Bruce lee
 
 <br />
 
