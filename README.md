@@ -6,7 +6,8 @@
 * 🌱 I’m currently learning everything 
 * 👯 I'm looking to collaborate with other creators
 * 🥅 2021 Goals: Contribute more to Open Source projects
-* 📫 Favorite quotes - "The light bulb was an invention that took 1,000 steps." -Edison
+* 📫 Favorite quotes -"In the middle of difficulty lies opportunity." -Albert Einstein
+* "The light bulb was an invention that took 1,000 steps." -Edison
 * "Everyone has a plan 'till they get punched in the mouth." -Mike Tyson
 * "There are no limits. There are only plateaus, and you must not stay there -- you must go beyond them." -Bruce lee
 
