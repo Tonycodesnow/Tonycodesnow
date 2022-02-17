@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Antonio aka @Tonycodesnow
 
 ## I'm a Husband, Father, Developer, and Artist!
-* 🔭 I'm currently working on [JavaScript],[Node.js ] and [mysql]!
+* 🔭 I'm currently working on learning [GraphQL] and [Tailwind]!
 * 👀 I’m interested in Science, tech and everything in between. 
 * 🌱 I’m currently learning everything 
 * 👯 I'm looking to collaborate with other creators
