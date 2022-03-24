@@ -5,7 +5,7 @@
 * 👀 I’m interested in Science, tech and everything in between. 
 * 🌱 I’m currently learning everything 
 * 👯 I'm looking to collaborate with other creators
-* 🥅 2021 Goals: Contribute more to Open Source projects
+* 🥅 2022 Goals: Contribute more to Open Source projects
 * 📫 Favorite quotes 
     * "In the middle of difficulty lies opportunity." -Albert Einstein
     * "There are no limits. There are only plateaus, and you must not stay there -- you must go beyond them." -Bruce lee
